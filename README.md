@@ -9,7 +9,9 @@ Feel free to fork and edit.
 
 In Linux, Run
 ```bash
-$ pdflatex resumeName.tex
+$ xelatex resumeName.xtx
+$ bibtex resumeName.aux
+$ xelatex resumeName.xtx
 ```
 This should result in the creation of ``resumeName.pdf``
 
