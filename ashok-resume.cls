@@ -77,6 +77,10 @@ Last Updated on \today
 \newcommand{\location}[1]{
 \color{headings}\raggedright\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{8pt}{10pt}\selectfont {#1\\} \normalfont}
 
+\newcommand{\locationbold}[1]{
+\color{subheadings}\fontspec[Path = fonts/lato/]{Lato-Bol}\fontsize{8pt}{10pt}\selectfont\bfseries {#1} \normalfont}
+
+
 % Bullet Lists with fewer gaps command
 \newenvironment{tightemize}{
 \vspace{-\topsep}\begin{itemize}\itemsep1pt \parskip0pt \parsep0pt}

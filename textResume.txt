@@ -1,0 +1,139 @@
+Ashok Bommisetti
+****************
+abommise@syr.edu  (315)436-2888
+
+Education 
+=========
+Syracuse University
+M.S., Computer Science
+Dec 2015  Syracuse, NY
+Cum. GPA: 3.762 / 4.0 
+
+Amity University
+B.Tech., Electronics  Communication Engg
+Apr 2011  Noida, India
+Amity School of Engg  Tech 
+Best Student in Technical Innovation
+
+Skills
+======
+
+Programming
+-----------
+Over 8000 lines:
+Java    Shell Scripting  Javascript 
+
+Over 3000 lines:
+C  Python  PL SQL  Stored Procedures 
+
+Familiar:
+PHP  Android  MySQL   
+
+Source Control
+--------------
+git  SVN
+
+OS
+--
+Linux (Ubuntu)  Solaris  Windows 
+
+Application Software
+--------------------
+Eclipse IDE  Toad  Android Studio
+
+Research
+========
+Cyber Security Research Group
+Research Assistant 
+Jan 2014 – Present  Syracuse, NY
+
+Worked with Paul Ratazzi (https://scholar.google.com/citations?user=0O4HYVsAAAAJ) and Dr. Kevin Du (http://www.cis.syr.edu/~wedu/) to create PinPoint, an implementation of namespaces in Android framework.
+Design and development of Android app launcher with focus on security in mobile ecosystem.
+Working on developing container technology in Android Operating Systems.
+
+Experience
+==========
+Digital Ricochet
+Lead Developer 
+Aug 2012 – Dec 2013  Hyderabad, India
+
+Developed a tool for Business flow aggregation, integration and automation that is used by 9 clients.
+Built async infrastructure for fast communication interfaces between clients.
+
+Accenture Services Pvt Ltd
+Associate Software Engineer
+Jun 2011 – Jul 2012  Bengaluru, India
+
+Worked on middleware system of one of the largest telecom companies in the world, with focus on network integration involving synchronous and asynchronous communications.
+Involved in development of a generic proactive monitoring system that is deployed by 4 teams across the project.
+Delivered a performance automation testing suite that is currently used by 2 teams.
+Maintained Legacy systems developed in Shell Scripts, Informatica and .net.
+
+Awards
+======
+2014  '500' out of 5700 competitors in IEEEXtreme 8.0 
+
+2011-'12  ‘Employee of the Month’ by client thrice in 11 months 
+
+2012 'Path Finder’ in Annual awards by Accenture for delivering  innovative solutions to the client 
+
+2011 Q4 'Rising Star’ in Quarterly awards by Accenture for quality  delivery in challenging timelines 
+
+2007-'11 'Best student in Technical Innovation’ for 2007-11 batch  by Amity University 
+
+Publications 
+============
+A. Bommisetti, V. Gupta, and P. Kumar. Object tracking – augmented algorithm. In National Conference on Advancements in Signal Processing & Integrated Networks, SPIN'11, Feb 2011.
+
+Academic Projects 
+=================
+Intel SGX Emulator 
+Aug 2014 – Dec 2014
+
+Implemented Intel's newest security on-chip extension, Software Guard Extensions, simulator in the software layer based on the announced documents.
+
+
+Mini VPN 
+Jan 2014 – Apr 2014
+Prototyped and demonstrated a fully functional SSL VPN to demonstrate Crypto, Authentication, Key Management, Key Exchange and Public-Key Infrastructure.
+
+Leadership Experience
+======================
+IEEE Student Chapter, Amity University
+Vice Chair 
+Jan 2010 – Apr 2011  Noida, India
+
+Managed a budget of $4,000 to sponsor programs that will engage students in technical pursuit.
+Ensured proper communication about various decisions from executive branch to members of the chapter.
+
+National Conference on Mobile  Embedded Technologies
+Student Secretary 
+2010  Noida, India
+
+Led more than 45 students that are involved in organizing the conference.
+Managed a budget of more than $10,000 to run the conference and concluded it successfully.
+
+National Conference on VLSI, MEMS  NEMS
+Student Joint Secretary 
+2011  Noida, India
+
+Headed Transportation  Sponsorship committees and delivered them successfully.
+Negotiated and Successfully won 4 corporates to be partners of university for the conference.
+
+
+Links
+===== 
+Github:// https://github.com/bashok001 bashok001 
+LinkedIn://  https://www.linkedin.com/in/bashok bashok 
+Twitter://  https://twitter.com/bashok001 @bashok001 
+Quora://  https://www.quora.com/Ashok-Bommisetti Ashok-Bommisetti
+
+Graduate Coursework
+===================
+Computer Security 
+Machine Learning Methods in Security 
+Internet Security 
+Computer Architecture 
+Principles of Operating Systems 
+Design and Analysis of Algorithms 
+Object Oriented Design  

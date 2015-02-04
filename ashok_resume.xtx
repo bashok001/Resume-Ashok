@@ -30,15 +30,17 @@
 \subsection{Syracuse University}
 \descript{M.S., Computer Science}
 \location{Dec 2015 | Syracuse, NY}
-\location{ Cum. GPA: 3.762 / 4.0 }
+\locationbold{ Cum. GPA: \textbf{3.76} / 4.0 }
 
 \sectionsep
+\sectionsep
+\sectionsep
+
 
 \subsection{Amity University}
-\descript{B.Tech., Electronics \& Communication Engg}
+\descript{B.Tech., Electronics \& \\Communication Engineering}
 \location{Apr 2011 | Noida, India}
-Amity School of Engg \& Tech \\
-\textit{Best Student in Technical Innovation}\\
+\locationbold{Best Student in Technical Innovation}\\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -64,22 +66,11 @@ Linux (Ubuntu) \textbullet{} Solaris \textbullet{} Windows
 Eclipse IDE \textbullet{} Toad \textbullet{} Android Studio
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     LINKS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Links} 
-Github:// \href{https://github.com/bashok001}{\bf bashok001} \\
-LinkedIn://  \href{https://www.linkedin.com/in/bashok}{\bf bashok} \\
-Twitter://  \href{https://twitter.com/bashok001}{\bf @bashok001} \\
-Quora://  \href{https://www.quora.com/Ashok-Bommisetti}{\bf Ashok-Bommisetti}
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSEWORK
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Coursework}
-\subsection{Graduate}
+\section{Graduate Coursework}
+
 Computer Security \\
 Machine Learning Methods in Security \\
 Internet Security \\
@@ -89,6 +80,16 @@ Design and Analysis of Algorithms \\
 Object Oriented Design \\
 \sectionsep
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links} 
+Github:// \href{https://github.com/bashok001}{\bf bashok001} \\
+LinkedIn://  \href{https://www.linkedin.com/in/bashok}{\bf bashok} \\
+Twitter://  \href{https://twitter.com/bashok001}{\bf @bashok001} \\
+Quora://  \href{https://www.quora.com/Ashok-Bommisetti}{\bf Ashok-Bommisetti}
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COLUMN TWO
@@ -108,7 +109,7 @@ Object Oriented Design \\
 \location{Jan 2014 – Present | Syracuse, NY}
 \vspace{\topsep}
 \begin{tightemize}
-\item Worked with \textbf{\href{https://scholar.google.com/citations?user=0O4HYVsAAAAJ}{Paul Ratazzi}} and \textbf{\href{http://www.cis.syr.edu/~wedu/}{Dr. Kevin Du}} to create \textbf{PinPoint}, an implementation of namespaces in Android framework.
+\item Worked with \textbf{\href{https://scholar.google.com/citations?user=0O4HYVsAAAAJ}{Paul Ratazzi}} and \textbf{\href{http://www.cis.syr.edu/~wedu/}{Dr. Kevin Du}} to create \textbf{PinPoint}, an efficient and near-zero overhead implementation of namespace concept in Android framework.
 \item Design and development of Android app launcher with focus on security in mobile ecosystem.
 \item Working on developing container technology in Android Operating Systems.
 \end{tightemize}
@@ -148,9 +149,9 @@ Object Oriented Design \\
 \begin{tabular}{rll}
 2014 & \textbf{500} out of 5700 competitors in IEEEXtreme 8.0 \\
 2011 - '12 & \textbf{‘Employee of the Month’} by client thrice in 11 months \\
-2012 & \textbf{'Path Finder’} in Annual awards by Accenture for delivering \& innovative solutions to the client \\
-2011 Q4 & \textbf{'Rising Star’} in Quarterly awards by Accenture for quality \& delivery in challenging timelines \\
-2007 - '11 & \textbf{'Best student in Technical Innovation’} for 2007-11 batch \& by Amity University \\
+2012 & \textbf{'Path Finder’} in Annual awards by Accenture for delivering innovative solutions to the client \\
+2011 Q4 & \textbf{'Rising Star’} in Quarterly awards by Accenture for quality delivery in challenging timelines \\
+2007 - '11 & \textbf{'Best student in Technical Innovation’} for 2007-11 batch by Amity University \\
 \end{tabular}
 \sectionsep
 
@@ -162,7 +163,7 @@ Object Oriented Design \\
 
 \bibliographystyle{abbrv}
 \bibliography{publications}
-\nocite{Ashok:2011:OTAA:SPIN}
+\nocite{*}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %    ACADEMIC PROJECTS
@@ -171,7 +172,7 @@ Object Oriented Design \\
 \runsubsection{Intel SGX Emulator} \\
 \location{Aug 2014 – Dec 2014}
 \begin{tightemize}
-\item Implemented Intel's newest security on-chip extension, Software Guard Extensions, simulator in the software layer based on the announced documents.
+\item Implemented a simulator for Intel's newest on-chip security feature, Software Guard Extensions, in software layer based on the announced documents.
 \end{tightemize}
 \sectionsep
 \runsubsection{Mini VPN} \\
@@ -191,7 +192,7 @@ Object Oriented Design \\
 \location{Jan 2010 – Apr 2011 | Noida, India}
 \begin{tightemize}
 \item Managed a budget of \$4,000 to sponsor programs that will engage students in technical pursuit.
-\item Ensured proper communication about various decisions from executive branch to members of the chapter.
+\item Authored constitution and drafted bylaws for chapter and societies. 
 \end{tightemize}
 \sectionsep
 
