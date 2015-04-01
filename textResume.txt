@@ -1,6 +1,8 @@
 Ashok Bommisetti
 ****************
 abommise@syr.edu  (315)436-2888
+****************
+459 Westcott St., Apt 1, Syracuse, NY
 
 Education 
 =========
@@ -41,6 +43,26 @@ Application Software
 --------------------
 Eclipse IDE  Toad  Android Studio
 
+Experience
+==========
+Digital Ricochet
+Lead Developer 
+Aug 2012 – Dec 2013  Hyderabad, India
+
+Developed a tool for Business flow aggregation, integration and automation that is used by 9 clients.
+Developed REST API Interface for mobile client integration.
+Built async infrastructure for fast communication interfaces between clients.
+
+Accenture Services Pvt Ltd
+Associate Software Engineer
+Jun 2011 – Jul 2012  Bengaluru, India
+
+Worked on middleware system of one of the largest telecom companies in the world, with focus on network integration involving synchronous and asynchronous communications.
+Developed 4 Oracle web services with JAX-WS support.
+Involved in development of a generic proactive monitoring system that is deployed by 4 teams across the project.
+Implemented the design of Performance testing automation suite that is currently used by 3 teams.
+Maintained Legacy systems developed in Shell Scripts, Informatica and .net.
+
 Research
 ========
 Cyber Security Research Group
@@ -51,23 +73,15 @@ Worked with Paul Ratazzi (https://scholar.google.com/citations?user=0O4HYVsAAAAJ
 Design and development of Android app launcher with focus on security in mobile ecosystem.
 Working on developing container technology in Android Operating Systems.
 
-Experience
-==========
-Digital Ricochet
-Lead Developer 
-Aug 2012 – Dec 2013  Hyderabad, India
-
-Developed a tool for Business flow aggregation, integration and automation that is used by 9 clients.
-Built async infrastructure for fast communication interfaces between clients.
-
-Accenture Services Pvt Ltd
-Associate Software Engineer
-Jun 2011 – Jul 2012  Bengaluru, India
-
-Worked on middleware system of one of the largest telecom companies in the world, with focus on network integration involving synchronous and asynchronous communications.
-Involved in development of a generic proactive monitoring system that is deployed by 4 teams across the project.
-Delivered a performance automation testing suite that is currently used by 2 teams.
-Maintained Legacy systems developed in Shell Scripts, Informatica and .net.
+Graduate Coursework
+===================
+Computer Security 
+Machine Learning Methods in Security 
+Internet Security 
+Computer Architecture 
+Principles of Operating Systems 
+Design and Analysis of Algorithms 
+Object Oriented Design  
 
 Awards
 ======
@@ -127,13 +141,3 @@ Github:// https://github.com/bashok001 bashok001
 LinkedIn://  https://www.linkedin.com/in/bashok bashok 
 Twitter://  https://twitter.com/bashok001 @bashok001 
 Quora://  https://www.quora.com/Ashok-Bommisetti Ashok-Bommisetti
-
-Graduate Coursework
-===================
-Computer Security 
-Machine Learning Methods in Security 
-Internet Security 
-Computer Architecture 
-Principles of Operating Systems 
-Design and Analysis of Algorithms 
-Object Oriented Design  

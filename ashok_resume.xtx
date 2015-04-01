@@ -12,14 +12,14 @@
 %     TITLE NAME
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Ashok}{Bommisetti}
-{ \urlstyle{same}\href{mailto:abommise@syr.edu}{abommise@syr.edu} | (315)436-2888
+{ \urlstyle{same}\href{mailto:abommise@syr.edu}{abommise@syr.edu} | (315)436-2888 | 459 Westcott St., Apt 1, Syracuse, NY
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COLUMN ONE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{minipage}[t]{0.33\textwidth} 
+\begin{minipage}[t]{0.26\textwidth} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
@@ -52,9 +52,9 @@
 \location{Over 8000 lines:}
 Java \textbullet{}   Shell Scripting \textbullet{} Javascript \\
 \location{Over 3000 lines:}
-C \textbullet{} Python \textbullet{} PL SQL \textbullet{} Stored Procedures \\
+C++ \textbullet{} Python \textbullet{} PL SQL \textbullet{} Stored Procedures \\
 \location{Familiar:}
-PHP \textbullet{} Android \textbullet{} MySQL \textbullet{} \LaTeX\ \\
+C \textbullet{} PHP \textbullet{} Android \textbullet{} MySQL \textbullet{} \LaTeX\ \\
 \sectionsep
 \subsection{Source Control}
 git \textbullet{} SVN
@@ -64,6 +64,16 @@ Linux (Ubuntu) \textbullet{} Solaris \textbullet{} Windows
 \sectionsep
 \subsection{Application Software}
 Eclipse IDE \textbullet{} Toad \textbullet{} Android Studio
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Certifications
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Certifications}
+\subsection{Python Programming}
+\location{March 2015}
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSEWORK
@@ -81,14 +91,23 @@ Object Oriented Design \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Honors
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Honors}
+\textbullet{} Phi Beta Delta \\
+\textbullet{} Dean's list (Fall '14) \\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Links} 
 Github:// \href{https://github.com/bashok001}{\bf bashok001} \\
 LinkedIn://  \href{https://www.linkedin.com/in/bashok}{\bf bashok} \\
-Twitter://  \href{https://twitter.com/bashok001}{\bf @bashok001} \\
-Quora://  \href{https://www.quora.com/Ashok-Bommisetti}{\bf Ashok-Bommisetti}
+Quora://  \href{https://www.quora.com/Ashok-Bommisetti}{\bf Ashok-Bommisetti} \\
+Twitter://  \href{https://twitter.com/bashok001}{\bf @bashok001}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -97,7 +116,35 @@ Quora://  \href{https://www.quora.com/Ashok-Bommisetti}{\bf Ashok-Bommisetti}
 
 \end{minipage} 
 \hfill
-\begin{minipage}[t]{0.66\textwidth} 
+\begin{minipage}[t]{0.71\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+\runsubsection{Digital Ricochet}
+\descript{|  Lead Developer}
+\location{Aug 2012 – Dec 2013 | Hyderabad, India}
+\vspace{\topsep}
+\begin{tightemize}
+\item Developed a tool for Business flow aggregation, integration and automation that is used by 9 clients.
+\item Developed REST API Interface for mobile client integration.
+\item Built async infrastructure for fast communication interfaces between clients.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Accenture Services Pvt Ltd}
+\descript{|  Associate Software Engineer}
+\location{Jun 2011 – Jul 2012 | Bengaluru, India}
+\begin{tightemize}
+\item Worked on middleware system of one of the largest telecom companies in the world, with focus on \\ network integration involving synchronous and asynchronous communications.
+\item Developed 5 Oracle web services with JAX-WS support.
+\item Involved in development of a generic proactive monitoring system that is deployed by 4 teams across\\ the project.
+\item Implemented the design of Performance testing automation suite that is currently used by 3 teams.
+\item Maintained Legacy systems developed in Shell Scripts, Informatica and .net.
+\end{tightemize}
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     RESEARCH
@@ -107,37 +154,10 @@ Quora://  \href{https://www.quora.com/Ashok-Bommisetti}{\bf Ashok-Bommisetti}
 \runsubsection{Cyber Security Research Group}
 \descript{| Research Assistant }
 \location{Jan 2014 – Present | Syracuse, NY}
-\vspace{\topsep}
 \begin{tightemize}
 \item Worked with \textbf{\href{https://scholar.google.com/citations?user=0O4HYVsAAAAJ}{Paul Ratazzi}} and \textbf{\href{http://www.cis.syr.edu/~wedu/}{Dr. Kevin Du}} to create \textbf{PinPoint}, an efficient and near-zero overhead implementation of namespace concept in Android framework.
 \item Design and development of Android app launcher with focus on security in mobile ecosystem.
 \item Working on developing container technology in Android Operating Systems.
-\end{tightemize}
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     EXPERIENCE
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Experience}
-\runsubsection{Digital Ricochet}
-\descript{|  Lead Developer }
-\location{Aug 2012 – Dec 2013 | Hyderabad, India}
-
-\begin{tightemize}
-\item Developed a tool for Business flow aggregation, integration and automation that is used by 9 clients.
-\item Built async infrastructure for fast communication interfaces between clients.
-\end{tightemize}
-\sectionsep
-
-\runsubsection{Accenture Services Pvt Ltd}
-\descript{|  Associate Software Engineer}
-\location{Jun 2011 – Jul 2012 | Bengaluru, India}
-\begin{tightemize}
-\item Worked on middleware system of one of the largest telecom companies in the world, with focus on network integration involving synchronous and asynchronous communications.
-\item Involved in development of a generic proactive monitoring system that is deployed by 4 teams across the project.
-\item Delivered a performance automation testing suite that is currently used by 2 teams.
-\item Maintained Legacy systems developed in Shell Scripts, Informatica and .net.
 \end{tightemize}
 \sectionsep
 
@@ -159,8 +179,7 @@ Quora://  \href{https://www.quora.com/Ashok-Bommisetti}{\bf Ashok-Bommisetti}
 %     PUBLICATIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Publications} 
-
+\section{Publications}
 \bibliographystyle{abbrv}
 \bibliography{publications}
 \nocite{*}
@@ -172,7 +191,7 @@ Quora://  \href{https://www.quora.com/Ashok-Bommisetti}{\bf Ashok-Bommisetti}
 \runsubsection{Intel SGX Emulator} \\
 \location{Aug 2014 – Dec 2014}
 \begin{tightemize}
-\item Implemented a simulator for Intel's newest on-chip security feature, Software Guard Extensions, in software layer based on the announced documents.
+\item Implemented a simulator for Intel's newest on-chip security feature, Software Guard Extensions, in \\ software layer based on the announced documents.
 \end{tightemize}
 \sectionsep
 \runsubsection{Mini VPN} \\
@@ -180,7 +199,6 @@ Quora://  \href{https://www.quora.com/Ashok-Bommisetti}{\bf Ashok-Bommisetti}
 \begin{tightemize}
 \item Prototyped and demonstrated a fully functional SSL VPN to demonstrate Crypto, Authentication, Key Management, Key Exchange and Public-Key Infrastructure.
 \end{tightemize}
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Leadership Experience
@@ -203,14 +221,15 @@ Quora://  \href{https://www.quora.com/Ashok-Bommisetti}{\bf Ashok-Bommisetti}
 \item Led more than 45 students that are involved in organizing the conference.
 \item Managed a budget of more than \$10,000 to run the conference and concluded it successfully.
 \end{tightemize}
-\sectionsep
-\runsubsection{National Conference on VLSI, MEMS \& NEMS}
-\descript{|  Student Joint Secretary }
-\location{2011 | Noida, India}
-\begin{tightemize}
-\item Headed Transportation \& Sponsorship committees and delivered them successfully.
-\item Negotiated and Successfully won 4 corporates to be partners of university for the conference.
-\end{tightemize}
+
+%\sectionsep
+%\runsubsection{National Conference on VLSI, MEMS \& NEMS}
+%\descript{|  Student Joint Secretary }
+%\location{2011 | Noida, India}
+%\begin{tightemize}
+%\item Headed Transportation \& Sponsorship committees and delivered them successfully.
+%\item Negotiated and Successfully won 4 corporates to be partners of university for the conference.
+%\end{tightemize}
 
 \end{minipage} 
 \end{document}  \documentclass[]{article}
