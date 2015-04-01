@@ -1,8 +1,10 @@
 Ashok Bommisetti
 ****************
-abommise@syr.edu  (315)436-2888
+abommise@syr.edu  
+(315)436-2888
 ****************
 459 Westcott St., Apt 1, Syracuse, NY
+*************************************
 
 Education 
 =========
@@ -19,17 +21,16 @@ Best Student in Technical Innovation
 
 Skills
 ======
-
 Programming
 -----------
 Over 8000 lines:
 Java    Shell Scripting  Javascript 
 
 Over 3000 lines:
-C  Python  PL SQL  Stored Procedures 
+C++  Python  PL/SQL  Stored Procedures 
 
 Familiar:
-PHP  Android  MySQL   
+C  Android  PHP  MySQL   
 
 Source Control
 --------------
@@ -42,6 +43,16 @@ Linux (Ubuntu)  Solaris  Windows
 Application Software
 --------------------
 Eclipse IDE  Toad  Android Studio
+
+Graduate Coursework
+===================
+Computer Security 
+Machine Learning Methods in Security 
+Internet Security 
+Computer Architecture 
+Principles of Operating Systems 
+Design and Analysis of Algorithms 
+Object Oriented Design  
 
 Experience
 ==========
@@ -73,37 +84,29 @@ Worked with Paul Ratazzi (https://scholar.google.com/citations?user=0O4HYVsAAAAJ
 Design and development of Android app launcher with focus on security in mobile ecosystem.
 Working on developing container technology in Android Operating Systems.
 
-Graduate Coursework
-===================
-Computer Security 
-Machine Learning Methods in Security 
-Internet Security 
-Computer Architecture 
-Principles of Operating Systems 
-Design and Analysis of Algorithms 
-Object Oriented Design  
-
 Awards
 ======
 2014  '500' out of 5700 competitors in IEEEXtreme 8.0 
-
 2011-'12  ‘Employee of the Month’ by client thrice in 11 months 
-
 2012 'Path Finder’ in Annual awards by Accenture for delivering  innovative solutions to the client 
-
 2011 Q4 'Rising Star’ in Quarterly awards by Accenture for quality  delivery in challenging timelines 
-
 2007-'11 'Best student in Technical Innovation’ for 2007-11 batch  by Amity University 
 
 Publications 
 ============
 A. Bommisetti, V. Gupta, and P. Kumar. Object tracking – augmented algorithm. In National Conference on Advancements in Signal Processing & Integrated Networks, SPIN'11, Feb 2011.
 
+P. Ratazzi, A. Bommisetti, N. Ji, and W. Du. Pinpoint: Efficient and effective resource isolation for mobile security and privacy. In Mobile Security Technologies, MoST'15, (Accepted)
+
+Certifications
+==============
+Python Programming
+March 2015
+
 Academic Projects 
 =================
 Intel SGX Emulator 
 Aug 2014 – Dec 2014
-
 Implemented Intel's newest security on-chip extension, Software Guard Extensions, simulator in the software layer based on the announced documents.
 
 
@@ -127,13 +130,9 @@ Student Secretary
 Led more than 45 students that are involved in organizing the conference.
 Managed a budget of more than $10,000 to run the conference and concluded it successfully.
 
-National Conference on VLSI, MEMS  NEMS
-Student Joint Secretary 
-2011  Noida, India
-
-Headed Transportation  Sponsorship committees and delivered them successfully.
-Negotiated and Successfully won 4 corporates to be partners of university for the conference.
-
+Honors
+======
+Phi Beta Delta
 
 Links
 ===== 
