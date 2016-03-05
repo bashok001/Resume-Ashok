@@ -5,27 +5,25 @@
 
 \pagestyle{fancy}
 \fancyhf{}
- 
+
 \begin{document}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     TITLE NAME
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Ashok}{Bommisetti}
-{ \urlstyle{same}\href{mailto:abommise@syr.edu}{abommise@syr.edu} | (315) 436-2888 | 459 Westcott St., Syracuse, NY
-}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COLUMN ONE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{minipage}[t]{0.26\textwidth} 
+\begin{minipage}[t]{0.26\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Education} 
+\section{Education}
 
 \subsection{Syracuse University}
 \descript{M.S., Computer Science}
@@ -63,7 +61,7 @@ Ant \textbullet{} gradle
 git \textbullet{} SVN
 \sectionsep
 \subsection{OS}
-Linux (Ubuntu) \textbullet{} Solaris \textbullet{} Windows 
+Linux (Ubuntu) \textbullet{} Solaris \textbullet{} Windows
 \sectionsep
 \subsection{Application Software}
 Eclipse IDE \textbullet{} Toad \textbullet{} Android Studio
@@ -105,7 +103,7 @@ Computer Architecture \\
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Links} 
+\section{Links}
 Github:// \href{https://github.com/bashok001}{\bf bashok001} \\
 LinkedIn://  \href{https://www.linkedin.com/in/bashok}{\bf bashok} \\
 Quora://  \href{https://www.quora.com/Ashok-Bommisetti}{\bf Ashok-Bommisetti} \\
@@ -116,9 +114,9 @@ Twitter://  \href{https://twitter.com/bashok001}{\bf @bashok001}
 %     COLUMN TWO
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\end{minipage} 
+\end{minipage}
 \hfill
-\begin{minipage}[t]{0.71\textwidth} 
+\begin{minipage}[t]{0.71\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
@@ -173,7 +171,7 @@ Twitter://  \href{https://twitter.com/bashok001}{\bf @bashok001}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS 
+%     AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Awards}
@@ -199,7 +197,7 @@ Twitter://  \href{https://twitter.com/bashok001}{\bf @bashok001}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %    ACADEMIC PROJECTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Academic Projects} 
+\section{Academic Projects}
 \sectionsep
 \runsubsection{Mini VPN} \\
 \location{Jan 2014 – Apr 2014}
@@ -229,7 +227,7 @@ Twitter://  \href{https://twitter.com/bashok001}{\bf @bashok001}
 \location{Jan 2010 – Apr 2011 | Noida, India}
 \begin{tightemize}
 \item Managed a budget of \$4,000 to sponsor programs that will engage students in technical pursuit.
-\item Authored constitution and drafted bylaws for chapter and societies. 
+\item Authored constitution and drafted bylaws for chapter and societies.
 \end{tightemize}
 \sectionsep
 
@@ -250,5 +248,5 @@ Twitter://  \href{https://twitter.com/bashok001}{\bf @bashok001}
 %\item Negotiated and Successfully won 4 corporates to be partners of university for the conference.
 %\end{tightemize}
 
-\end{minipage} 
+\end{minipage}
 \end{document}  \documentclass[]{article}
