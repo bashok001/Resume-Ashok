@@ -1,5 +1,5 @@
 % Intro Options
-\ProvidesClass{ashok-resume}[2014/04/30 CV class]
+\ProvidesClass{ashok-resume}[05/03/2016 CV class]
 \NeedsTeXFormat{LaTeX2e}
 \DeclareOption{print}{\def\@cv@print{}}
 \DeclareOption*{%
@@ -17,9 +17,9 @@
 \renewcommand\refname{\vskip -1.35cm}
 
 % Color definitions
-\usepackage[usenames,dvipsnames]{xcolor} 
-\definecolor{date}{HTML}{666666} 
-\definecolor{primary}{HTML}{2b2b2b} 
+\usepackage[usenames,dvipsnames]{xcolor}
+\definecolor{date}{HTML}{666666}
+\definecolor{primary}{HTML}{2b2b2b}
 \definecolor{headings}{HTML}{6A6A6A}
 \definecolor{subheadings}{HTML}{333333}
 
@@ -34,35 +34,36 @@
 \setlength{\TPHorizModule}{1mm}
 \setlength{\TPVertModule}{1mm}
 \newcommand{\lastupdated}{\begin{textblock}{60}(155,5)
-\color{date}\fontspec[Path = fonts/raleway/]{Raleway-ExtraLight}\fontsize{8pt}{10pt}\selectfont 
+\color{date}\fontspec[Path = fonts/raleway/]{Raleway-ExtraLight}\fontsize{8pt}{10pt}\selectfont
 Last Updated on \today
 \end{textblock}}
 
 % Name command
 \newcommand{\namesection}[3]{
 \centering{
-\fontsize{40pt}{60pt}
-\fontspec[Path = fonts/lato/]{Lato-Hai}\selectfont #1 
-\fontspec[Path = fonts/lato/]{Lato-Lig}\selectfont #2
+\fontsize{30pt}{40pt}
+\fontspec[Path = fonts/lato/]{Lato-Lig}\selectfont #1
+\fontspec[Path = fonts/lato/]{Lato-Hai}\selectfont #2
 } \\[5pt]
 \centering{
 \color{headings}
-\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{14pt}\selectfont #3}
+\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{8pt}{10pt}\selectfont #3}
 \noindent\makebox[\linewidth]{\color{headings}\rule{\paperwidth}{0.4pt}}
 \vspace{-15pt}
 }
 
-% Section seperators 
+% Section seperators
 \usepackage{titlesec}
-\titlespacing{\section}{0pt}{0pt}{0pt} 
+\titlespacing{\section}{0pt}{0pt}{0pt}
 \titlespacing{\subsection}{0pt}{0pt}{0pt}
-\newcommand{\sectionsep}{\vspace{4pt}}
+\newcommand{\sectionsep}{\vspace{3pt}}
+\newcommand{\bigsectionsep}{\vspace{10pt}}
 
 % Headings command
 \titleformat{\section}{\color{headings}
 \scshape\fontspec[Path = fonts/lato/]{Lato-Lig}\fontsize{14pt}{20pt}\selectfont \raggedright}{}{0em}{}
 
-% Subeadings command
+% Subheadings command
 \titleformat{\subsection}{
 \color{subheadings}\fontspec[Path = fonts/lato/]{Lato-Bol}\fontsize{10pt}{8pt}\selectfont\bfseries}{}{0em}{}
 

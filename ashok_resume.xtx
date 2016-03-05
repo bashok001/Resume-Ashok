@@ -5,7 +5,7 @@
 
 \pagestyle{fancy}
 \fancyhf{}
- 
+
 \begin{document}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -19,28 +19,25 @@
 %     COLUMN ONE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{minipage}[t]{0.26\textwidth} 
+\begin{minipage}[t]{0.25\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Education} 
+\section{Education}
 
 \subsection{Syracuse University}
 \descript{M.S., Computer Science}
 \location{Apr 2016 | Syracuse, NY}
 \locationbold{ Cum. GPA: \textbf{3.807} / 4.0 }
 
-\sectionsep
-\sectionsep
-\sectionsep
-
+\bigsectionsep
 
 \subsection{Amity University}
 \descript{B.Tech., Electronics \& \\Communication Engineering}
 \location{Apr 2011 | Noida, India}
-\locationbold{Best Student in Technical Innovation}\\
+\locationbold{Best Student in Technical Innovation}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -50,24 +47,34 @@
 \section{Skills}
 \subsection{Programming}
 \location{Over 8000 lines:}
-Python \textbullet{} Java \textbullet{} Javascript \\
+Java \textbullet{} Python \textbullet{} Javascript \\
 \location{Over 3000 lines:}
-C++ \textbullet{} Shell Scripting \textbullet{} PL SQL \textbullet{} Android \\
+C++ \textbullet{} Shell Scripting \textbullet{} PL SQL \\
 \location{Familiar:}
-C \textbullet{} PHP \textbullet{} Stored Procedures \textbullet{} \LaTeX\ \\
-\sectionsep
+C \textbullet{} PHP \textbullet{} Stored Procedures \textbullet{} \LaTeX
+
+\bigsectionsep
+
 \subsection{Build tools}
 Ant \textbullet{} gradle
-\sectionsep
+
+\bigsectionsep
+
 \subsection{Source Control}
 git \textbullet{} SVN
-\sectionsep
+
+\bigsectionsep
+
 \subsection{OS}
-Linux (Ubuntu) \textbullet{} Solaris \textbullet{} Windows 
-\sectionsep
+Android \textbullet{} Linux \textbullet{} Solaris \textbullet{} Windows
+
+\bigsectionsep
+
 \subsection{Application Software}
-Eclipse IDE \textbullet{} Toad \textbullet{} Android Studio
-\sectionsep
+Eclipse IDE \textbullet{} Visual Studio \textbullet{} Toad \\
+Android Studio
+
+\bigsectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Certifications
@@ -83,14 +90,14 @@ Eclipse IDE \textbullet{} Toad \textbullet{} Android Studio
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Graduate Coursework}
-
-Computer Security \\
-Machine Learning Methods in Security \\
-Internet Security \\
-Object Oriented Design \\
-Principles of Operating Systems \\
-Design and Analysis of Algorithms \\
-Computer Architecture \\
+\textbullet{} Computer Security \\
+\textbullet{} Internet Security \\
+\textbullet{} Machine Learning Methods in Security \\
+\textbullet{} Building Assured Components \\
+\textbullet{} Object Oriented Design \\
+\textbullet{} Principles of Operating Systems \\
+\textbullet{} Design and Analysis of Algorithms \\
+\textbullet{} Computer Architecture \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -105,7 +112,7 @@ Computer Architecture \\
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Links} 
+\section{Links}
 Github:// \href{https://github.com/bashok001}{\bf bashok001} \\
 LinkedIn://  \href{https://www.linkedin.com/in/bashok}{\bf bashok} \\
 Quora://  \href{https://www.quora.com/Ashok-Bommisetti}{\bf Ashok-Bommisetti} \\
@@ -116,9 +123,9 @@ Twitter://  \href{https://twitter.com/bashok001}{\bf @bashok001}
 %     COLUMN TWO
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\end{minipage} 
+\end{minipage}
 \hfill
-\begin{minipage}[t]{0.71\textwidth} 
+\begin{minipage}[t]{0.73\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
@@ -126,13 +133,12 @@ Twitter://  \href{https://twitter.com/bashok001}{\bf @bashok001}
 \section{Experience}
 \runsubsection{Inkling}
 \descript{|  Backend Engineering Intern}
-\location{Aug 2015 – Dec 2015 | San Francisco, California}
+\location{Aug 2015 – Dec 2015 | San Francisco, CA}
 \vspace{\topsep}
 \begin{tightemize}
-\item Built dashboards with aggregations about daily, weekly and monthly to show content consumption and visualize \\ patterns of authoring that were successful.
-\item Worked with Analytics squad on developing scalable solutions using Elasticsearch and Azkaban workflow manager.
-\item Worked on automation tools for building and tearing down Elastic Map Reduce clusters using AWS APIs.
-\item Built dashboards to visualize the data over node.js powered applications.
+\item Worked on information retrieval and data santization with over 10 million data points per day.
+\item Built dashboards to visualize content consumption data over node.js powered applications.
+\item Built automation tools for building and tearing down Elastic Map Reduce clusters integrating with Azkaban workflow manager.
 \end{tightemize}
 \sectionsep
 
@@ -141,8 +147,7 @@ Twitter://  \href{https://twitter.com/bashok001}{\bf @bashok001}
 \location{Aug 2012 – Dec 2013 | Hyderabad, India}
 \begin{tightemize}
 \item Developed a tool for Business flow aggregation, integration and automation that is used by 9 clients.
-\item Developed REST API Interface for mobile client integration.
-\item Built async infrastructure for fast communication interfaces between clients.
+\item Built async infrastructure for faster communication interfaces between clients.
 \end{tightemize}
 \sectionsep
 
@@ -150,10 +155,9 @@ Twitter://  \href{https://twitter.com/bashok001}{\bf @bashok001}
 \descript{|  Associate Software Engineer}
 \location{Jun 2011 – Jul 2012 | Bengaluru, India}
 \begin{tightemize}
-\item Worked on middleware system of one of the largest telecom companies in the world, with focus on \\ network integration involving synchronous and asynchronous communications.
-\item Involved in development of a generic proactive monitoring system that is deployed by 4 teams across\\ the project.
-\item Implemented the design of Performance testing automation suite that is currently used by 3 teams.
-\item Maintained Legacy systems developed in Shell Scripts, Informatica and .net.
+\item Worked on middleware system of one of the largest telecom companies in the world, with focus on network integration involving synchronous and asynchronous communications.
+\item Involved in development of a generic proactive monitoring system that is deployed by 4 teams.
+\item Implemented the design of a performance testing automation suite that is currently used across the project.
 \end{tightemize}
 \sectionsep
 
@@ -167,13 +171,13 @@ Twitter://  \href{https://twitter.com/bashok001}{\bf @bashok001}
 \location{Jan 2014 – Present | Syracuse, NY}
 \begin{tightemize}
 \item Worked with \textbf{\href{https://scholar.google.com/citations?user=0O4HYVsAAAAJ}{Paul Ratazzi}} and \textbf{\href{http://www.cis.syr.edu/~wedu/}{Dr. Kevin Du}} to create \textbf{PinPoint}, an efficient and near-zero overhead implementation of namespace concept in Android framework.
-\item Design and development of Android app launcher with focus on security in mobile ecosystem.
-\item Working on developing container technology in Android Operating Systems.
+\item Working on developing SEED labs, educational labs for cyber security.
+\item Design and development of Android app launcher.
 \end{tightemize}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS 
+%     AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Awards}
@@ -192,32 +196,31 @@ Twitter://  \href{https://twitter.com/bashok001}{\bf @bashok001}
 
 \section{Publications}
 \bibliographystyle{plainyr-rev}
-%\bibliographystyle{abbrv}
 \bibliography{publications}
 \nocite{*}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %    ACADEMIC PROJECTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Academic Projects} 
+\section{Academic Projects}
 \sectionsep
-\runsubsection{Mini VPN} \\
+\runsubsection{Mini VPN} \descript{}
 \location{Jan 2014 – Apr 2014}
 \begin{tightemize}
-\item Prototyped and demonstrated a fully functional SSL VPN to demonstrate Crypto, Authentication, Key Management, \\ Key Exchange and Public-Key Infrastructure.
+\item Prototyped and demonstrated a fully functional SSL VPN with concepts of Crypto, Authentication, Key Management, Key Exchange and Public Key Infrastructure.
 \end{tightemize}
 \sectionsep
-\runsubsection{Intel SGX Emulator} \\
+\runsubsection{Intel SGX Emulator} \descript{}
 \location{Aug 2014 – Dec 2014}
 \begin{tightemize}
-\item Implemented a simulator for Intel's newest on-chip security feature, Software Guard Extensions, in software layer based on the announced documents.
+\item Implemented a simulator for Intel's newest on-chip security feature, Software Guard Extensions, in software layer, on spec with published documentation.
 \end{tightemize}
-\sectionsep
-\runsubsection{Message Passing Communicator} \\
-\location{Feb 2015 – Apr 2015}
-\begin{tightemize}
-\item Implemented a socket based peer to peer communicator that is capable of syncing trees of files across multiple servers \\ and clients whose messages are modelled after HTTP standards.
-\end{tightemize}
+%\sectionsep
+%\runsubsection{Message Passing Communicator} \descript{}
+%\location{Feb 2015 – Apr 2015}
+%\begin{tightemize}
+%\item Implemented a socket based peer to peer communicator that is capable of syncing trees of files across multiple servers and clients whose messages are modelled after HTTP standards.
+%\end{tightemize}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Leadership Experience
@@ -229,7 +232,7 @@ Twitter://  \href{https://twitter.com/bashok001}{\bf @bashok001}
 \location{Jan 2010 – Apr 2011 | Noida, India}
 \begin{tightemize}
 \item Managed a budget of \$4,000 to sponsor programs that will engage students in technical pursuit.
-\item Authored constitution and drafted bylaws for chapter and societies. 
+\item Authored constitution and drafted bylaws for chapter and societies.
 \end{tightemize}
 \sectionsep
 
@@ -250,5 +253,5 @@ Twitter://  \href{https://twitter.com/bashok001}{\bf @bashok001}
 %\item Negotiated and Successfully won 4 corporates to be partners of university for the conference.
 %\end{tightemize}
 
-\end{minipage} 
+\end{minipage}
 \end{document}  \documentclass[]{article}
